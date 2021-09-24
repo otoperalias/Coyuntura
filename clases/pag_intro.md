@@ -8,8 +8,8 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 2: Análisis de datos económicos en Python
 
-* [Notebook principal](https://github.com/otoperalias/Coyuntura/blob/main/Clases/Tema2_I.ipynb).
-  * [Datos para ejercicio final (calcular contribución al crecimiento)](https://github.com/otoperalias/Coyuntura/blob/main/Clases/datos/tabcntr.xlsx).
+* [Notebook principal](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_I.ipynb).
+  * [Datos para ejercicio final (calcular contribución al crecimiento)](https://github.com/otoperalias/Coyuntura/blob/main/clases/datos/tabcntr.xlsx).
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
