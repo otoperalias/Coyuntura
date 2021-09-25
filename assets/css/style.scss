@@ -1,9 +1,12 @@
 ---
 ---
+body {
+  color:#637CB7;
+}
 
 @import"{{ site.theme }}";
 .page-header{
-color:#ffff;
+color:#637CB7;
 background-color:#637CB7;
 background-image:linear-gradient(120deg,#778BBC,#4769BA);
 }
