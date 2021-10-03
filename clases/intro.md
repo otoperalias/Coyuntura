@@ -12,6 +12,7 @@ Profesor: Daniel Oto Peralías
   * [Datos para ejercicio final (calcular contribución al crecimiento)](https://github.com/otoperalias/Coyuntura/blob/main/clases/datos/tabcntr.xlsx).
 * [Explorando la Penn World Table](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_ExplorandoPWT.ipynb).
 * [Visualización de datos: Creando gráficos de calidad](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Visualizacion.ipynb).
+* La pandemia de COVID-19 en Europa.
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
