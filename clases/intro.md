@@ -14,8 +14,8 @@ Profesor: Daniel Oto Peralías
 * [Visualización de datos: Creando gráficos de calidad](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Visualizacion.ipynb).
 * [La pandemia de COVID-19 en Europa](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Pandemia_COVID19_Europa.ipynb).
 * Informes:
-  * [Informe 1](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe1.ipynb).
-  * [Informe 2](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe2.ipynb).
+  * [Informe 1: Evolución del PIB per cápita](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe1.md).
+  * [Informe 2: Medidas de contención del virus vs. crec. económico](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe2.md).
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
