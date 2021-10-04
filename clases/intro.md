@@ -13,6 +13,9 @@ Profesor: Daniel Oto Peralías
 * [Explorando la Penn World Table](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_ExplorandoPWT.ipynb).
 * [Visualización de datos: Creando gráficos de calidad](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Visualizacion.ipynb).
 * [La pandemia de COVID-19 en Europa](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Pandemia_COVID19_Europa.ipynb).
+* Informes:
+  * [Informe 1](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe1.ipynb).
+  * [Informe 2](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Informe2.ipynb).
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
