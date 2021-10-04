@@ -29,7 +29,7 @@ Descarga de datos de la OCDE:
 
 Enlace: https://stats.oecd.org/
 
-![OECD data](https://github.com/otoperalias/Coyuntura/blob/main/clases/images/DatosOECD.jpg)
+![OECD data](images/DatosOECD.jpg)
 
 
 
