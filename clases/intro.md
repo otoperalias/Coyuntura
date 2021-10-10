@@ -14,7 +14,7 @@ Profesor: Daniel Oto Peralías
 2.2. [Explorando la Penn World Table](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_ExplorandoPWT.ipynb).
 
 2.3. Workshop de visualización de datos:
-* [Visualización de datos: Introducción](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Visualizacion1).
+* [Visualización de datos: Introducción](https://otoperalias.github.io/Coyuntura/clases/Tema2_Visualizacion1).
 * [Visualización de datos: Creando gráficos de calidad](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_Visualizacion.ipynb).
 
 2.4. [Informe 1: Evolución del PIB per cápita](https://otoperalias.github.io/Coyuntura/clases/Tema2_Informe1).
