@@ -31,7 +31,7 @@
 * Figura > axes (gráficos individuales) > axis (ejes de cada gráfico).
 ![Matplotlib estructura](images/matplotlib_structure.jpg)
 
-**Anatomía de una figura:**
+### Anatomía de una figura
 ![Matplotlib estructura](images/matplotlib_anatomy.jpg)
 
 ### Tipos de gráficos:
@@ -55,11 +55,12 @@ Echar in vistazo a la función [```plot()```de ```pandas```](pandas.pydata.org/p
 ```python
 fig, ax =plt.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw) 
 ```
-2.1. Añadimos los datos al gráfico (líneas, barras, etc.) usando la interface de ```pandas```:
+2. Añadimos los datos al gráfico (líneas, barras, etc.):
+2.1.  usando la interface de ```pandas```:
 ```python
 df.plot.PLOT_TYPE(x=None, y=None, ax=None, subplots=False, sharex=None, sharey=False, layout=None, figsize=None, use_index=True, title=None, grid=None, legend=True, style=None, logx=False, logy=False, loglog=False, xticks=None, yticks=None, xlim=None, ylim=None, rot=None, fontsize=None, colormap=None, table=False, yerr=None, xerr=None, secondary_y=False, sort_columns=False, **kwargs)
 ``` 
-2.2. O usando la interface de ```pandas```:
+2.2. O usando la interface de ```matplotlib```:
 ```python
 ax.plot(x, y, **kwargs)
 ```  
