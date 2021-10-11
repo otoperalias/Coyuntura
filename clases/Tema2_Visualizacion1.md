@@ -29,10 +29,10 @@
 ### Estructura de las figuras en ```matplotlib```:
 **Jerarquía de objetos:** 
 * Figura > axes (gráficos individuales) > axis (ejes de cada gráfico).
-![Matplotlib estructura](images/matplotlib_structure.jpg)
+<img src="images/matplotlib_structure.jpg" alt="drawing" width="350"/>
 
 ### Anatomía de una figura
-![Matplotlib estructura](images/matplotlib_anatomy.jpg)
+<img src="images/matplotlib_anatomy.jpg" alt="drawing" width="450"/>
 
 ### Tipos de gráficos:
 Usando la interface de ```pandas```, la cual se basa en la de ```matplotlib```, haciendo su uso más fácil:
