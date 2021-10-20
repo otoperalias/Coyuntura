@@ -20,9 +20,9 @@ Una vez realizado el análisis para todos los países de la OCDE, debéis hacer 
 
 ---
 
-Este informe no debéis entregarlo. En su lugar, haré una serie de preguntas a través de la plataforma para comprobar si habéis hecho la tarea. Por ejemplo, pregunta tales como: ¿los países con una tasa de muertes mayor han sufrido menos caída del PIB? ¿Cuál ha sido la caída del PIB para España en el primer semestre? Etc.
+Este informe no debéis entregarlo. En su lugar, haré una serie de preguntas a través de la plataforma para comprobar si habéis hecho la tarea. Por ejemplo, preguntas tales como: ¿los países con una tasa de muertes mayor han sufrido menos caída del PIB? ¿Cuál ha sido la caída del PIB para España en el primer semestre? Etc.
 
-Aunque el informe no se entregue, por favor esforzaros al máximo para crear gráficos de alta calidad.
+Aunque el informe no se entregue, por favor esforzaros al máximo para crear gráficos de alta calidad y generar el informe en formato HTML.
 
 ---
 
