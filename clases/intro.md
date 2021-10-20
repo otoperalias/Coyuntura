@@ -27,7 +27,9 @@ Profesor: Daniel Oto Peralías
 
 3.1. [Manipulación de series](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_I.ipynb)
 
-3.2. Desestacionalización (I)
+3.2. [Desestacionalización (I)](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_II.ipynb)
+
+3.3. [Tarea 1](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea1).
 
 3.3. Desestacionalización (II)
 
