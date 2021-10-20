@@ -25,11 +25,14 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
-3.1. Manipulación de series
+3.1. [Manipulación de series](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_I.ipynb)
 
 3.2. Desestacionalización (I)
+
 3.3. Desestacionalización (II)
+
 3.4. Predicción – Intro y modelos ARIMA.
+
 3.5. Modelos SARIMA y SARIMAX
 
 ### Tema 4: Indicadores sintéticos
