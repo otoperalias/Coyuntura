@@ -4,7 +4,7 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 1: El ciclo económico y su predicción
 
-* Diapositivas disponibles en el Aula Virtual de la asignatura
+* Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
 
 ### Tema 2: Análisis de datos económicos en Python
 
@@ -25,8 +25,17 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
+3.1. Manipulación de series
+
+3.2. Desestacionalización (I)
+3.3. Desestacionalización (II)
+3.4. Predicción – Intro y modelos ARIMA.
+3.5. Modelos SARIMA y SARIMAX
+
 ### Tema 4: Indicadores sintéticos
 
 ### Tema 5: Componentes de un informe de coyuntura
 
+* Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
+* También disponible en el [Aula Virtual](https://campusvirtual.upo.es/) una carpeta comprimida con varios informes de coyuntura, para vuestra lectura y consulta.
 
