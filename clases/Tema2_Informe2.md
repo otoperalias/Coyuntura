@@ -32,6 +32,10 @@ Enlace: https://stats.oecd.org/
 
 ![OECD data](images/DatosOECD.jpg)
 
+---
+**Ayuda datos COVID:**
+Para aquellos con problemas para importar los datos de Our World in Data, [**aquí**](https://github.com/otoperalias/Coyuntura/blob/main/clases/datos/owid_covid.xlsx) se encuentra disponible una copiade la base de datos que incluye solamente las columnas relevantes (y por tanto es más fácil de cargar). Y [**aquí**](https://raw.githubusercontent.com/otoperalias/Coyuntura/main/clases/datos/owid_covid.xlsx) está el enlace para directamente leer los datos.
+
 
 
 
