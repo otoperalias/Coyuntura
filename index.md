@@ -3,8 +3,6 @@ Este sitio web recopila los mejores informes de coyuntura realizados por los alu
 &nbsp;  
 &nbsp;  
 ### Curso 2020-2021
-Los mejores informes del curso son:
-* XXXXX [Informe de coyuntura de Cataluña: 1er trimestre de 2021](https://otoperalias.github.io/Coyuntura/InformeCoyuntura_Cataluña)
-* XXXXX
+* XXXXX [Informe de coyuntura de Cataluña: 1er trimestre de 2021](https://otoperalias.github.io/Coyuntura/informes/AnaMoraza_Cataluña3), realizado por Ana Moraza González.
 &nbsp; 
 &nbsp; 
