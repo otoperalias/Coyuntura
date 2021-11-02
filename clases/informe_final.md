@@ -10,7 +10,7 @@
 * El informe tendrá una extensión máxima equivalente a 15 páginas, donde la calidad primará muy por encima de la cantidad o extensión. Para comprobar si la extensión del informe cumple con el límite de las 15 páginas, pulsar ```Ctrl + P``` 
 cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de PDF se generan.
 * La fecha máxima para la entrega del trabajo será el lunes 17 de enero de 2022 a las 23.00 horas. 
-
+---
 #### CONTENIDO DEL INFORME:
 
 **1. Resumen:**
@@ -43,9 +43,8 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
   2. En base al análisis realizado en el punto anterior, responder a la pregunta de si la economía regional ha vuelto a la senda de evolución pre-covid.  
   3. Aportar una previsión propia de la tasa de paro para el cuarto trimestre de 2020 usando los modelos vistos en clase, en particular, el SARIMAX. Observar que podéis usar los datos de afiliaciones a la Seguridad Social y contratos y paro registrado del mes de diciembre, que se publican a principios de enero, para predecir la tasa de paro de la EPA del cuatro trimestre del 2021. Cuanto más exacta sea vuestra predicción, más nota tendréis en este apartado.
   
-
 **7. Cuadro de indicadores** (Opcional).
-
+  
 ---
 * Los indicadores arriba citados deben mostrarse en gráficos y, de manera complementaria (en algunos casos que se considere oportuno) en tablas.
 * **Mostrar siempre en los gráficos (y tablas, en su caso) los valores para España con fines comparativos.**
@@ -56,8 +55,7 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
 * El informe se entregará a través del Aula Virtual en formato HTML dentro de un archivo comprimido. Dicho archivo también debe contener el notebook de Jupyter que genera el informe así como un archivo Excel con todos los datos usados en el informe: por tanto, todos los datos recopilados de las fuentes estadísticas y utilizados para realizar el informe deberán estar convenientemente organizados en un fichero Excel donde las diferentes hojas recojan los diferentes conjuntos de datos. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
 * [**Aquí**](https://otoperalias.github.io/Coyuntura/) tenéis ejemplos de los mejores informes de los cursos pasados.
 ---
----
-
+  
 #### **EVALUACIÓN**:
 * El trabajo supone seis de los diez puntos que como máximo se pueden obtener en la asignatura. 
 * Peso de cada sección del informe:
