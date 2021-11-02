@@ -54,7 +54,7 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
 * En relación con los periodos a mostrar en el informe, debéis ser consistentes a lo largo del informe y mostrar siempre los mismos. Tomar otros informes como ejemplo para decidir qué rango temporal mostrar.
 * El informe se entregará a través del Aula Virtual en formato HTML dentro de un archivo comprimido. Dicho archivo también debe contener el notebook de Jupyter que genera el informe así como un archivo Excel con todos los datos usados en el informe: por tanto, todos los datos recopilados de las fuentes estadísticas y utilizados para realizar el informe deberán estar convenientemente organizados en un fichero Excel donde las diferentes hojas recojan los diferentes conjuntos de datos. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
 * [**Aquí**](https://otoperalias.github.io/Coyuntura/) tenéis ejemplos de los mejores informes de los cursos pasados.
-
+  .
 ---
   
 #### **EVALUACIÓN**:
@@ -69,8 +69,8 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
 
 * Cada sección se evaluará tanto por la rigurosidad y pertinencia del contenido como por la forma (es decir, el formato y el estilo). 
 * La nota global del informe es igual a la suma ponderada de la puntuación obtenida en cada apartado. Dicha nota sufrirá deducciones en los siguientes casos:  
-  * El estilo y formato no se mantienen constantes a lo largo del informe. Por ejemplo, los gráficos del primer apartado son de una manera y los gráficos de otro apartado siguen un formato y estilo diferente. 
-  * La estructura es deficiente porque, por ejemplo, no se sigue el orden establecido arriba.  
-  * El notebook de Jupyter no genera correctamente el informe. Por ejemplo, no se cargan los datos o los gráficos no se generan.  
-  * El fichero Excel con los datos es deficiente (faltan datos) o está muy mal organizado.  
+  1. El estilo y formato no se mantienen constantes a lo largo del informe. Por ejemplo, los gráficos del primer apartado son de una manera y los gráficos de otro apartado siguen un formato y estilo diferente. 
+  2. La estructura es deficiente porque, por ejemplo, no se sigue el orden establecido arriba.  
+  3. El notebook de Jupyter no genera correctamente el informe. Por ejemplo, no se cargan los datos o los gráficos no se generan.  
+  4. El fichero Excel con los datos es deficiente (faltan datos) o está muy mal organizado.  
 
