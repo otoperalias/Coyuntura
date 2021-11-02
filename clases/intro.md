@@ -44,3 +44,5 @@ Profesor: Daniel Oto Peralías
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
 * También disponible en el [Aula Virtual](https://campusvirtual.upo.es/) una carpeta comprimida con varios informes de coyuntura, para vuestra lectura y consulta.
 
+### Informe final:
+* [Instrucciones sobre el informe de coyuntura final](https://otoperalias.github.io/Coyuntura/clases/informe_final).
