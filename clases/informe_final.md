@@ -9,10 +9,10 @@
 * El informe se supone que va dirigido al equipo de asesores del Consejero de Economía de la Comunidad Autónoma; por tanto, debéis suponer que no va dirigido al profesor. Dadle, pues, un carácter y formato profesional al informe.
 * El informe tendrá una extensión máxima equivalente a 15 páginas, donde la calidad primará muy por encima de la cantidad o extensión. Para comprobar si la extensión del informe cumple con el límite de las 15 páginas, pulsar ```Ctrl + P``` 
 cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de PDF se generan.
-* La fecha máxima para la entrega del trabajo será el lunes 17 de enero de 2022 a las 23.00 horas. 
+* La fecha máxima para la entrega del trabajo será el lunes 17 de enero de 2022 a las 23.00 horas.
+  
 ---
 #### CONTENIDO DEL INFORME:
-
 **1. Resumen:**
   1. Exponer de manera resumida las principales variables que definen la evolución de la economía de la región.
   2. Explicar y justificar el momento del ciclo en el que se encuentra la economía regional y las previsiones sobre su evolución en el corto plazo.
@@ -54,9 +54,8 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
 * En relación con los periodos a mostrar en el informe, debéis ser consistentes a lo largo del informe y mostrar siempre los mismos. Tomar otros informes como ejemplo para decidir qué rango temporal mostrar.
 * El informe se entregará a través del Aula Virtual en formato HTML dentro de un archivo comprimido. Dicho archivo también debe contener el notebook de Jupyter que genera el informe así como un archivo Excel con todos los datos usados en el informe: por tanto, todos los datos recopilados de las fuentes estadísticas y utilizados para realizar el informe deberán estar convenientemente organizados en un fichero Excel donde las diferentes hojas recojan los diferentes conjuntos de datos. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
 * [**Aquí**](https://otoperalias.github.io/Coyuntura/) tenéis ejemplos de los mejores informes de los cursos pasados.
-  .
----
   
+---
 #### **EVALUACIÓN**:
 * El trabajo supone seis de los diez puntos que como máximo se pueden obtener en la asignatura. 
 * Peso de cada sección del informe:
