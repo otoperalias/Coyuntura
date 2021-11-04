@@ -5,7 +5,7 @@
 #### *LEA LAS SIGUIENTES INSTRUCIONES CON DETENIMIENTO*
 ---
 * El trabajo consiste en realizar un informe de coyuntura trimestral sobre una de las comunidades autónomas españolas. La comunidad autónoma sobre la que versará el informe es asignada de manera aleatoria por el profesor.
-* El trabajo se realizará de grupos de dos, a elegir libremente.
+* El trabajo se realizará en grupos de dos estudiantes, a elegir libremente.
 * El informe se supone que va dirigido al equipo de asesores del Consejero de Economía de la Comunidad Autónoma; por tanto, debéis suponer que no va dirigido al profesor. Dadle, pues, un carácter y formato profesional al informe.
 * El informe tendrá una extensión máxima equivalente a 15 páginas, donde la calidad primará muy por encima de la cantidad o extensión. Para comprobar si la extensión del informe cumple con el límite de las 15 páginas, pulsar ```Ctrl + P``` 
 cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de PDF se generan.
@@ -41,7 +41,7 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
   <img src="images/informe_final_imagen1.jpg" alt="drawing" width="550"/>  
   
   2. En base al análisis realizado en el punto anterior, responder a la pregunta de si la economía regional ha vuelto a la senda de evolución pre-covid.  
-  3. Aportar una previsión propia de la tasa de paro para el cuarto trimestre de 2020 usando los modelos vistos en clase, en particular, el SARIMAX. Observar que podéis usar los datos de afiliaciones a la Seguridad Social y contratos y paro registrado del mes de diciembre, que se publican a principios de enero, para predecir la tasa de paro de la EPA del cuatro trimestre del 2021. Cuanto más exacta sea vuestra predicción, más nota tendréis en este apartado.
+  3. Aportar una previsión propia de la tasa de paro para el *cuarto trimestre de 2021* usando los modelos vistos en clase, en particular, el SARIMAX. Observar que podéis usar los datos de afiliaciones a la Seguridad Social y contratos y paro registrado del mes de diciembre, que se publican a principios de enero, para predecir la tasa de paro de la EPA del cuatro trimestre del 2021. Cuanto más exacta sea vuestra predicción, más nota tendréis en este apartado.
   
 **7. Cuadro de indicadores** (Opcional).
   
@@ -57,7 +57,7 @@ cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de P
   
 ---
 #### **EVALUACIÓN**:
-* El trabajo supone seis de los diez puntos que como máximo se pueden obtener en la asignatura. 
+* **El trabajo supone seis de los diez puntos** que como máximo se pueden obtener en la asignatura. 
 * Peso de cada sección del informe:
   1. Resumen: 10%.
   2. Actividad productiva: 20%.
