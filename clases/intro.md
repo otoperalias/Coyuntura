@@ -41,6 +41,8 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 4: Indicadores sintéticos
 
+* Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
+
 ### Tema 5: Componentes de un informe de coyuntura
 
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
