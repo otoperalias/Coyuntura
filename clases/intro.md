@@ -39,7 +39,7 @@ Profesor: Daniel Oto Peralías
 
 3.5. [Modelos SARIMA y SARIMAX](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_V.ipynb)
 
-5.5.2 [Tarea3](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea3.pdf).
+3.5.2 [Tarea3](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_Tarea3.pdf)
 
 ### Tema 4: Indicadores sintéticos
 
