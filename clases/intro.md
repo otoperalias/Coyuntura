@@ -31,13 +31,15 @@ Profesor: Daniel Oto Peralías
 
 3.2.1 [Tarea 1](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea1).
   
-3.2.1 [Tarea 2](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea2).
+3.2.2 [Tarea 2](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea2).
 
 3.3. [Desestacionalización (II)](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_III.ipynb)
 
 3.4. [Predicción – Intro y modelos ARIMA](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_IV.ipynb)
 
 3.5. [Modelos SARIMA y SARIMAX](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_V.ipynb)
+
+5.5.2 [Tarea3](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea3.pdf).
 
 ### Tema 4: Indicadores sintéticos
 
