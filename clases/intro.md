@@ -1,4 +1,4 @@
-#### 
+#### 3<sup>er</sup> curso. 1<sup>er</sup> semestre.
 
 Profesor: Daniel Oto Peralías
 
