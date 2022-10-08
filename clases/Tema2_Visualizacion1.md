@@ -6,10 +6,11 @@
 * Realizar gráficos sencillos requiere una línea de código, pero la tarea se complica al realizar gráficos sofisticados – ¡Todo se puede hacer! Es cuestión de prueba y error y buscar ayuda (ejemplos) online.
 * Nos centraremos en el tipo de gráficos más comunes en el análisis de coyuntura económica.
 * Existe mucha ayuda online: 
-  * https://matplotlib.org/tutorials/index.html
-  * https://matplotlib.org/stable/gallery/index.html
-  * https://matplotlib.org/stable/tutorials/introductory/sample_plots.html
-  * https://realpython.com/python-matplotlib-guide/
+  - https://matplotlib.org/tutorials/index.html
+  - https://matplotlib.org/stable/gallery/index.html
+  - https://matplotlib.org/stable/tutorials/introductory/sample_plots.html
+  - https://realpython.com/python-matplotlib-guide/
+  - https://www.python-graph-gallery.com/
 * Existen otras librerías disponibles, como [Seaborn](https://seaborn.pydata.org/) o [Plotly](https://plotly.com/python/), pero no tenemos tiempo para verlas. 
 
 * Fundamental en representación gráfica:
