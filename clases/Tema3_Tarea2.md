@@ -1,7 +1,7 @@
 ## Tema 3-Tarea 2
 ## Informe sobre patrones estacionales en el consumo de electricidad
 
-### A entregar antes de la EPD de la semana 10 a través del Aula Virtual
+### A entregar al final de la EPD de la semana 9
 ---
 Suponer que trabajáis en una consultora. Se os pide que realicéis un análisis sobre la evolución del consumo de electricidad en España durante el periodo 1960-2019 (es decir, 60 años). Los datos que os han pasado en un archivo Excel recogen el consumo de energía eléctrica desde enero de 1958 a octubre de 2020 y están medidos en millones KWH.
 En concreto, debéis plasmar en el informe lo siguiente:
