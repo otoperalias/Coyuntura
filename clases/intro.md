@@ -44,6 +44,7 @@ Profesor: Daniel Oto Peralías
 ### Tema 4: Indicadores sintéticos
 
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
+* [Ejercicio práctico: replicar el indicador sintético de inversión en equipo ISE](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema4_ISE.ipynb)
 
 ### Tema 5: Componentes de un informe de coyuntura
 
