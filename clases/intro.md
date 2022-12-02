@@ -53,3 +53,8 @@ Profesor: Daniel Oto Peralías
 
 ### Informe final:
 * [Instrucciones sobre el informe de coyuntura final](https://otoperalias.github.io/Coyuntura/clases/informe_final).
+* [Repositorio de los mejores informes de cursos previos](https://otoperalias.github.io/Coyuntura).
+
+### Anexo:
+* [Creación de mapas en Python](https://github.com/otoperalias/Coyuntura/blob/main/clases/Workshop_mapas.ipynb)
+* [Análisis computacional de texto en Python](https://github.com/otoperalias/Coyuntura/blob/main/clases/Workshop_texto.ipynb)
