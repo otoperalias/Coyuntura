@@ -56,7 +56,7 @@
   
 ---
 #### **EVALUACIÓN**:
-* **El trabajo supone seis de los diez puntos** que como máximo se pueden obtener en la asignatura. 
+* **El trabajo supone cinco de los diez puntos** que como máximo se pueden obtener en la asignatura. 
 * Peso de cada sección del informe:
   1. Resumen: 10%.
   2. Actividad productiva: 20%.
