@@ -1,7 +1,5 @@
 
-
-<img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/stay focused.jpg" alt="drawing" width="700"/>
-
+<img src="images/stay focused.jpg" alt="drawing" width="700"/>
 
 
-<img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/movil prohibido.jpg" alt="drawing" width="350"/>   <img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/charlar prohibido.jpg" alt="drawing" width="350"/> 
+<img src="images/movil prohibido.jpg" alt="drawing" width="350"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="images/charlar prohibido.jpg" alt="drawing" width="350"/> 
