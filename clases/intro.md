@@ -8,7 +8,7 @@ Profesor: Daniel Oto Peralías
 
 ### Tema 2: Análisis de datos económicos en Python
 
-2.1. [Notebook principal](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_I.ipynb).
+2.1. [Introducción a Python](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_I.ipynb).
 
 2.2. [Explorando BDSICE: Base de datos de Series de Indicadores de Coyuntura Económica](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_II.ipynb).
 
