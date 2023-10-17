@@ -49,7 +49,12 @@
 * Debéis elegir críticamente en cada caso cómo han de ir expresadas o medidas las variables económicas mostradas en el informe. Por ejemplo, ¿tiene sentido mostrar la tasa de variación del ICC? ¿Tiene sentido mostrar el IPC en niveles? ¿Deben usarse datos desestacionalizados o brutos?
 * Además del uso de gráficos (y, en su caso, tablas), se deberá incluir un breve texto explicativo en cada apartado. En el texto tenéis que describir muy brevemente (en una frase) la evolución reciente de cada variable, tal y como se hace en los informes de coyuntura referenciados en clase.
 * En relación con los periodos a mostrar en el informe, debéis ser consistentes a lo largo del informe y mostrar siempre los mismos. Tomar otros informes como ejemplo para decidir qué rango temporal mostrar.
-* El informe se entregará a través del Aula Virtual en formato HTML dentro de un archivo comprimido. Dicho archivo también debe contener el notebook de Jupyter que genera el informe así como un archivo Excel con todos los datos usados en el informe. Por tanto, todos los datos recopilados de las fuentes estadísticas y utilizados para realizar el informe deberán estar convenientemente organizados en un fichero Excel donde las diferentes hojas recojan los diferentes conjuntos de datos. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
+* El informe se entregará a través del Aula Virtual en un archivo comprimido que deberá contener los siguientes archivos:
+  1. El informe en formato HTML. Este es el principal documento del informe.
+  2. El informe convertido en PDF, para comprobar que se cumple con la extensión máxima.
+  3. El notebook de Google Colab/Jupyter que genera el informe.
+  4. El archivo Excel con todos los datos usados en el informe y de los que se nutre el notebook del punto anterior. Por tanto, todos los datos recopilados de las fuentes estadísticas y utilizados para realizar el informe deberán estar convenientemente organizados en un fichero Excel donde las diferentes hojas recojan los diferentes conjuntos de datos. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
+     
 * [**Aquí**](https://otoperalias.github.io/Coyuntura/) tenéis ejemplos de los mejores informes de los cursos pasados.
   
 ---
