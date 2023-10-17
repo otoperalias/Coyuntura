@@ -59,16 +59,14 @@
 
 | Apartado  | Extensión aprox. | Peso en la evaluación |
 | ------------- | ------------- |  ------------- |
-| Resumen  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1. Resumen  | 1 página  | 10% |
+| 2. Actividad productiva | 1,5 págs  | 15% |
+| 3. Demanda  | 1,5 págs  | 15% |
+| 4. Mercado de trabajo  | 2 páginas  | 20% |
+| 5. Precios y costes  | 1 página  | 10% |
+| 6. Previsiones  | 1 página  | 20% |
+| 7. Cuadro de indicadores  | 1 página  | 10% |
 
-  1. Resumen: 10%
-  2. Actividad productiva: 15%.
-  3. Demanda: 15%.
-  4. Mercado de trabajo: 20%.
-  5. Precios y costes: 10%.
-  6. Previsiones: 20%.
-  7. Cuadro de indicadores: 10%.
 
 * Cada sección se evaluará tanto por la rigurosidad y pertinencia del contenido como por la forma (es decir, el formato y el estilo). 
 * La nota global del informe es igual a la suma ponderada de la puntuación obtenida en cada apartado. Dicha nota sufrirá deducciones en los siguientes casos:  
