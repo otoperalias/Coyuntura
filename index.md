@@ -6,10 +6,12 @@ A los alumnos se les asigna la tarea de crear un informe de coyuntura de caráct
 <br /> 
 **CURSO 2020-2021**
 * **Ana Moraza González**: [Informe de Coyuntura de Cataluña: 4º trimestre de 2020](https://otoperalias.github.io/Coyuntura/informes/AnaMoraza_Cataluña3).  
-<br />
+<br /> 
+
 **CURSO 2021-2022**
 * **Francisco Javier Martínez Márquez y José María Baca Daza**: [Informe de Coyuntura de Cantabria: 4º trimestre de 2021](https://otoperalias.github.io/Coyuntura/informes/Informe_2021_22).  
-<br />
+<br /> 
+
 **CURSO 2022-2023**
 * **Fernando de Rojas Ojeda y Lucía Rubio Pérez**: [Coyuntura económica de Galicia: 3er trimestre de 2022](https://otoperalias.github.io/Coyuntura/informes/InformeWeb_2022_23).
 
