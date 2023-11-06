@@ -38,17 +38,19 @@ Profesor: Daniel Oto Peralías
 
 3.5. [Modelos SARIMA y SARIMAX](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_V.ipynb)
 
-3.6 [Tarea3](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_Informe2)
+3.6. [Informe 2](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_Informe2)
 
 ### Tema 4: Indicadores sintéticos
 
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
 * [Ejercicio práctico: replicar el indicador sintético de inversión en equipo ISE](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema4_ISE.ipynb)
 
-### Tema 5: Componentes de un informe de coyuntura
+### Tema 5: Preparación de informes de coyuntura
 
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
 * También disponible en el [Aula Virtual](https://campusvirtual.upo.es/) una carpeta comprimida con varios informes de coyuntura, para vuestra lectura y consulta.
+* [Creación de informes en formatos PDF y HTML](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema5_formato_informes.ipynb)
+
 
 ### Informe final:
 * [Instrucciones sobre el informe de coyuntura final](https://otoperalias.github.io/Coyuntura/clases/informe_final).
