@@ -46,7 +46,7 @@ Profesor: Daniel Oto Peralías
 
 * Diapositivas disponibles en el [Aula Virtual](https://campusvirtual.upo.es/).
 * [Ejercicio práctico: replicar el indicador sintético de inversión en equipo ISE](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema4_ISE.ipynb)
-* [Tarea 1: Replicar el Indicador Sintético de Consumo](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema4_Tarea1).
+* [Tarea 1: Replicar el Indicador Sintético de Consumo](https://otoperalias.github.io/Coyuntura/clases/Tema4_Tarea1).
 
 ### Tema 5: Preparación de informes de coyuntura
 
