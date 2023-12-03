@@ -7,40 +7,44 @@
 * El trabajo consiste en realizar un informe de coyuntura trimestral sobre una de las comunidades autónomas españolas. La comunidad autónoma sobre la que versará el informe es asignada de manera aleatoria por el profesor.
 * El trabajo se realizará en grupos de dos estudiantes, a elegir libremente.
 * El informe se supone que va dirigido al equipo de asesores del Consejero de Economía de la Comunidad Autónoma; por tanto, debéis suponer que no va dirigido al profesor. Dadle, pues, un carácter y formato profesional al informe.
-* El informe tendrá una extensión máxima equivalente a 10 páginas, donde la calidad primará muy por encima de la cantidad o extensión. Para comprobar si la extensión del informe cumple con el límite de las 10 páginas, pulsar ```Ctrl + P``` cuando tengáis abierto el informe en HTML y podréis ver cuántas páginas de PDF se generan.
+* El informe tendrá una extensión máxima de 8 páginas A4, a una carilla.
+* El informe debe ir acompañado de un anexo donde se explique la metodología seguida para la construcción del indicador sintético de consumo (apartado 3.1) y para las predicciones del apartado 6. El anexo es otro documento. No debe mezclarse con el informe.
 * La fecha máxima para la entrega del trabajo será el viernes 22 de diciembre de 2023 a las 23.00 horas.
   
 ---
 #### CONTENIDO DEL INFORME:
-**1. Resumen:**
+**1. Resumen:** *(extensión orientativa: 1 pág.)*
   1. Exponer de manera resumida y representar gráficamente las principales variables que definen la evolución de la economía de la región.
   2. Explicar y justificar el momento del ciclo en el que se encuentra la economía regional y las previsiones sobre su evolución en el corto plazo.
 
-**2. Actividad productiva:**
+**2. Actividad productiva:** *(extensión orientativa: 1 pág.)*
   1. PIB.
   2. Índice de Producción Industrial.
   3. Índice de confianza empresarial.
   4. ...
 
-**3. Demanda:**
-  1. Índice de confianza del consumidor o análogo si está disponible para vuestra comunidad autónoma.
-  2. Otros indicadores que sirvan para reflejar la situación de la demanda, como indicadores de ventas del sector servicio, etc.
+**3. Demanda:** *(extensión orientativa: 1 pág.)*
+  1. Índicador sintético de consumo en la comunidad autónoma, construido por vosotros.
+  2. Indicadores parciales más representativos (relevantes) del indicador sintético.
   3. Evolución del sector exterior (exportaciones, importaciones y balanza comercial).
 
-**4. Mercado de trabajo:**
+**4. Mercado de trabajo:** *(extensión orientativa: 2 págs.)*
   1. Tasas de actividad, empleo, paro y temporalidad (EPA).
   2. Evolución de la afiliación a la Seguridad Social.
   3. Evolución del paro registrado.
+  4. ...
      
-**5. Precios y costes:**
-  1. IPC. Total y el subyacente (sin energía ni alimentos no elaborados). Tasas de variación.
-  2. Costes laborales. Salariales y no salariales. Tasas de variación.
+**5. Precios y costes:** *(extensión orientativa: 1 pág.)*
+  1. Inflación (IPC). Total y el subyacente (es decir, sin energía ni alimentos no elaborados).
+  2. Costes laborales. Salariales y no salariales.
 
-**6. Previsiones:**
-  1. Comentario sobre la evolución futura en el corto plazo del PIB regional, basándoos en una selección de indicadores adelantados.
-  2. Aportad una previsión propia de la tasa de paro para el *cuarto trimestre de 2023* usando los modelos vistos en clase, en particular, el SARIMAX. Observad que podéis usar los datos de afiliaciones a la Seguridad Social y contratos y paro registrado de los meses de octubre y noviembre para predecir dicha tasa de paro.  
+**6. Previsiones:** *(extensión orientativa: 1 pág.)*
+  1. Previsión propia de la tasa de crecimiento del PIB para el *cuarto trimestre de 2023* usando el modelo SARIMAX.  
+  2. Previsión propia de la tasa de paro para el *cuarto trimestre de 2023* usando el modelo SARIMAX.  
+     - En ambos casos, como variable exógena podéis usar una variable concreta o un indicador compuesto de varias variables. Observad que podéis usar los datos de afiliaciones, contratos y paro registrado, consumo eléctrico, IPI, etc., de los meses de octubre y noviembre para realizar las predicciones.
+     - Además, en base a la predicción del punto 6.1, comentad cuál se espera que sea el crecimiento del PIB anual en 2023 (como suma de los cuatro trimestres).
     
-**7. Cuadro de indicadores**.  
+**7. Cuadro de indicadores:** *(extensión orientativa: 1 pág.)*   
   * Tabla de indicadores donde se muestren los valores de los principales indicadores durante los últimos periodos.
   
 ---
