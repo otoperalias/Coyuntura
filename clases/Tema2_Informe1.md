@@ -7,5 +7,5 @@ Debéis entregar un archivo compromido con los siguientes archivos:
 - El informe en PDF.
 - El notebook de Google Colab y un archivo excel que contenga los datos necesario para crear el informe.  
 
-La fecha máxima de entrega es el viernes 27 de octubre a las 23:00.  
+La fecha máxima de entrega es el viernes 25 de octubre a las 23:00.  
 Este primer informe supone 1 punto de los 6 de las EPD. La provincia asignada la podéis consultar en un archivo disponible en el Aula Virtual.
