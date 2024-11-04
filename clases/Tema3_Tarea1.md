@@ -14,5 +14,5 @@ Naturalmente, aquí me estoy refiriendo al carácter estacional de la serie y de
 Echar un vistazo a [este ejemplo de descomposición STL](https://www.statsmodels.org/stable/examples/notebooks/generated/stl_decomposition.html)  
 Como podéis observar en el enlace anterior, con datos mensuales, debéis especificar la opción seasonal=13 con el método STL.
 
-Una vez hecho lo anterior, completen el siguiente formulario: [Formulario Tema 3-Tarea 1](https://forms.gle/3f4qcb22YdmWnLDc6)
+Una vez hecho lo anterior, debéis completar la actividad *Tema3_Tarea1* disponible en el Aula Virtual, con fecha límite **viernes 8 de noviembre a las 23:55**.
 
