@@ -3,7 +3,7 @@
 
 **Datos a usar**:
 
-Ocupados (EPA, total nacional): 1er trim de 2002 hasta el 3er trim de 2024.
+Ocupados (EPA, total nacional): 1er trim de 2002 hasta el 3er trim de 2024. Disponible [aquí](https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST8/EST10/EST305/EST306).
 
 Afiliados (a fin de mes, total sistema, total nacional): Enero de 2002 hasta último disponible (octubre de 2024).
 
