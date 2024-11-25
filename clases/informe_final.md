@@ -23,10 +23,14 @@
   3. Índice de confianza empresarial.
   4. Otros indicadores que estén disponibles y estiméis oportuno.
 
-**3. Demanda:** 
-  1. Índicador sintético de consumo en la comunidad autónoma, construido por vosotros.
-  2. Indicadores parciales más representativos (relevantes) del indicador sintético.
-  3. Evolución del sector exterior (exportaciones, importaciones y balanza comercial).
+**3. Demanda:**   
+  * Opción a) (*plus de nota*):
+    1. Índicador sintético de consumo en la comunidad autónoma, construido por vosotros.
+    2. Indicadores parciales más representativos (relevantes) del indicador sintético.
+    3. Evolución del sector exterior (exportaciones, importaciones y balanza comercial).
+  * Opción b):
+    1. Indicadores de demanda interna disponibles para vuestra comunidad autónoma.
+    2. Evolución del sector exterior (exportaciones, importaciones y balanza comercial).
 
 **4. Mercado de trabajo:**
   1. Tasas de actividad, empleo y paro (EPA).
@@ -56,7 +60,7 @@
 * En relación con los periodos a mostrar en el informe, debéis ser consistentes a lo largo del informe y mostrar siempre los mismos. Tomar otros informes como ejemplo para decidir qué rango temporal mostrar.
 * El informe se entregará a través del Aula Virtual, incluyendo los siguientes archivos:
   1. El informe en formato PDF. Este es el principal documento del informe.
-  2. El anexo que contiene los detalles metodológicos de los apartados 3.1 y 6.
+  2. El anexo que contiene los detalles metodológicos de los apartados 3.1 (si optáis por la *opción a)*) y 6.
   3. El notebook de Jupyter que genera el informe.
   4. El archivo Excel con todos los datos usados en el informe y de los que se nutre el notebook del punto anterior. El fichero Excel deberá contener también una hoja adicional con una leyenda explicativa.
      
