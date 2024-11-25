@@ -40,7 +40,7 @@ Profesor: Daniel Oto Peralías
 
 3.5.1 [Tarea 3](https://otoperalias.github.io/Coyuntura/clases/Tema3_Tarea3). 
 
-3.6. [Informe 2](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_Informe2_enunciado.ipynb)
+3.6. [Informe 2](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema3_Informe2_enunciado.ipynb) ([ej. informe curso 23-24](https://github.com/otoperalias/Coyuntura/blob/main/clases/datos/Informe2_ej23-24.pdf))
 
 ### Tema 4: Indicadores sintéticos
 
