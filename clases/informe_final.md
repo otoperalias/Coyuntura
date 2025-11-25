@@ -38,11 +38,11 @@
   3. Evolución del paro registrado.
   4. Otros indicadores que estén disponibles y estiméis oportuno.
      
-**5. Precios y costes:** *( $`\frac{1}{2}`$ página)*
+**5. Precios y costes:** *(media página)*
   1. Inflación (IPC). Total y subyacente (es decir, sin energía ni alimentos no elaborados).
   2. Costes laborales. Salariales y no salariales.
 
-**6. Previsiones:** *( $`\frac{1}{2}`$ página)*
+**6. Previsiones:** *(media página)*
   1. Previsión propia de la tasa de crecimiento del PIB para el *cuarto trimestre de 2025* usando el modelo SARIMAX.  
   2. Previsión propia de la tasa de paro para el *cuarto trimestre de 2025* usando el modelo SARIMAX.  
   * En ambos casos, como variable exógena podéis usar una variable concreta o un indicador compuesto de varias variables. Observad que podéis usar los datos de afiliaciones, contratos y paro registrado, consumo eléctrico, IPI, etc., de los meses de octubre y noviembre para realizar las predicciones. En la nota al pie del gráfico, explicar brevemente la metodología (la técnica usada y qué variable exógena).
