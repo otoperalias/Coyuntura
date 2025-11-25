@@ -55,6 +55,7 @@
 ---
 ---
 * Los indicadores arriba citados deben mostrarse en gráficos y de manera complementaria en el Cuadro de Indicadores.
+* El informe debe tener fecha de diciembre de 2025 y debe estar actualizado con los últimos datos disponibles a la fecha de entrega. Esto implica que, por ejemplo, los datos de afiliados a la Seguridad Social deben incluir los del mes de noviembre.
 * **Mostrar siempre en los gráficos (y tablas, en su caso) los valores para España con fines comparativos** (excepto en la sección 6). 
 * Debéis elegir críticamente en cada caso cómo han de ir expresadas o medidas las variables mostradas en el informe. Por ejemplo, ¿tiene sentido mostrar la tasa de variación del ICC? ¿Tiene sentido mostrar el IPC en niveles? ¿Deben usarse datos desestacionalizados o brutos?
 * Además del uso de gráficos, se deberá incluir un breve texto explicativo en cada apartado. En el texto tenéis que describir muy brevemente (en una frase) la evolución reciente de cada variable, tal y como se hace en los informes de coyuntura referenciados en clase.
