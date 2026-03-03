@@ -3,7 +3,7 @@ Este sitio web recopila los mejores informes de coyuntura realizados por los alu
 <br /> 
 **CURSO 2025-26**  
 <br /> 
-A los alumnos se les asigna la tarea de crear un informe de coyuntura de carácter profesional en formato PDF, elaborado íntegramente con Python. Dos informes han sido seleccionados *ex aequo* 
+A los alumnos se les asigna la tarea de crear un informe de coyuntura de carácter profesional en formato PDF, elaborado íntegramente con Python. Dos informes han sido seleccionados *ex aequo*. 
 * **María Cuesta García y Eduardo Herrera Lara**: [Informe de Coyuntura de Canarias: 4º trimestre de 2025](https://github.com/otoperalias/Coyuntura/blob/main/informes/Informeweb_2025_26_Canarias.pdf).
 * **Miguel Ángel Verdugo González y Enrique Aguilar Poblador**: [Informe de Coyuntura de Madrid: 4º trimestre de 2025](https://github.com/otoperalias/Coyuntura/blob/main/informes/Informeweb_2025_26_Madrid.pdf).
 <br />
