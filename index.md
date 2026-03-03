@@ -1,6 +1,13 @@
 ## REPOSITORIO DE INFORMES DE COYUNTURA
 Este sitio web recopila los mejores informes de coyuntura realizados por los alumnos en la asignatura Coyuntura y Predicción, impartida en el tercer curso del [Grado en Análisis Economico](https://www.upo.es/portal/impe/web/contenido/46a350b6-38e1-11e0-a104-3fe5a96f4a88?channel=c1f3624d-2f47-11de-b088-3fe5a96f4a88) ([Universidad Pablo de Olavide](https://www.upo.es/)) por [Daniel Oto Peralías](https://otoperalias.github.io/).  
 <br /> 
+**CURSO 2025-26**  
+<br /> 
+A los alumnos se les asigna la tarea de crear un informe de coyuntura de carácter profesional en formato PDF, elaborado íntegramente con Python. Dos informes han sido seleccionados *ex aequo* 
+* **María Cuesta García y Eduardo Herrera Lara**: [Informe de Coyuntura de Canarias: 4º trimestre de 2025](https://github.com/otoperalias/Coyuntura/blob/main/informes/Informeweb_2025_26_Canarias.pdf).
+* **Miguel Ángel Verdugo González y Enrique Aguilar Poblador**: [Informe de Coyuntura de Madrid: 4º trimestre de 2025](https://github.com/otoperalias/Coyuntura/blob/main/informes/Informeweb_2025_26_Madrid.pdf).
+<br />
+
 **CURSO 2024-25**  
 <br /> 
 A los alumnos se les asigna la tarea de crear un informe de coyuntura de carácter profesional en formato PDF, elaborado íntegramente con Python.  
