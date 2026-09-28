@@ -18,9 +18,12 @@ Profesor: Daniel Oto Peralías
 
 2.4. [Coyuntura en el mercado laboral](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_IV.ipynb).
 
-2.5. [Material de aprendizaje adicional](https://otoperalias.github.io/Coyuntura/clases/Tema2_V).
+2.5. [¿Qué tira de la economía? Las contribuciones al crecimiento del PIB](https://github.com/otoperalias/Coyuntura/blob/main/clases/Tema2_VI_contr.ipynb)).
 
-2.6. [Informe 1](https://otoperalias.github.io/Coyuntura/clases/Tema2_Informe1).
+2.6. [Material de aprendizaje adicional](https://otoperalias.github.io/Coyuntura/clases/Tema2_V).
+
+2.7. [Informe 1](https://otoperalias.github.io/Coyuntura/clases/Tema2_Informe1).
+
 
 ### Tema 3: Tratamiento y análisis de series temporales
 
