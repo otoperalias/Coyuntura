@@ -67,11 +67,11 @@ def tabla(ax, df, fs=9, dec=1, bbox=(0.02, 0.15, 0.98, 0.7), ancho_etiq=0.17,
         cell.set_edgecolor(fondo)       # borde del mismo color, para que no se vea la rejilla
 
     # Líneas horizontales (arriba, bajo la cabecera y al cierre), dibujadas aparte
-        # porque los bordes de celda no son compatibles con el relleno
-        x0, y0, ancho, alto = bbox
-        alto_fila = alto / (len(df) + 1)
-        for y in [y0 + alto, y0 + alto - alto_fila, y0]:
-            ax.plot([x0, x0 + ancho], [y, y], color="black", lw=0.5, transform=ax.transAxes)
+    # porque los bordes de celda no son compatibles con el relleno
+    x0, y0, ancho, alto = bbox
+    alto_fila = alto / (len(df) + 1)
+    for y in [y0 + alto, y0 + alto - alto_fila, y0]:
+        ax.plot([x0, x0 + ancho], [y, y], color="black", lw=0.5, transform=ax.transAxes)
 
     # Devolvemos la tabla por si queremos retocarla después fuera de la función
     return tb
